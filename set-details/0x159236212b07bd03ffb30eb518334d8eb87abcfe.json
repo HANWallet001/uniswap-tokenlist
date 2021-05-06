@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "HAN",
+    "setSymbol": "HAN",
+    "setDecimals": 18,
+    "setIcon": "https://github.com/HANWallet001/uniswap-tokenlist/blob/main/assets/0x159236212b07bd03ffb30eb518334d8eb87abcfe.png",
+    "setDescription": "HAN uniswap",
+    "website": "http://www.hannetwork.cn",
+    "managerName": "HAN",
+    "managerIcon": "https://github.com/HANWallet001/uniswap-tokenlist/blob/main/assets/0x159236212b07bd03ffb30eb518334d8eb87abcfe.png",
+    "managerDescription": "HAN Manager"
+  },
+  "version": 1
+}
