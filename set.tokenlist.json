@@ -1,25 +1,24 @@
 {
-  "name": "Set",
-  "logoURI": "https://raw.githubusercontent.com/HANWallet001/uniswap-tokenlist/main/assets/b07bd03ffb30eb518334d8eb87abcfe.png",
+  "name": "HAN",
+  "logoURI": "https://github.com/HANWallet001/uniswap-tokenlist/blob/main/assets/0x159236212b07bd03ffb30eb518334d8eb87abcfe.png",
   "keywords": [
-    "set",
-    "tokensets",
-    "defi"
+    "HAN",
+    "han"
   ],
   "timestamp": "2021-05-05T02:32:17.000+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-      "name": "DeFi Pulse Index",
-      "symbol": "DPI",
+      "address": "0x159236212b07bd03ffb30eb518334d8eb87abcfe",
+      "name": "HAN",
+      "symbol": "HAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
+      "logoURI": "https://github.com/HANWallet001/uniswap-tokenlist/blob/main/assets/0x159236212b07bd03ffb30eb518334d8eb87abcfe.png"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 0,
     "patch": 0
   }
 }
